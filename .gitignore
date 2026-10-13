@@ -1,0 +1,28 @@
+# STM32 / ARM GCC build outputs
+build/
+Debug/
+Release/
+*.elf
+*.bin
+*.hex
+*.map
+*.o
+*.obj
+*.d
+*.su
+
+# Python cache & virtual environments
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# IDE and Editor configs
+.vscode/
+.idea/
+.settings/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
