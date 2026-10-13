@@ -8,7 +8,7 @@ A 4-degree-of-freedom robotic manipulator powered by an **STM32F411RE (ARM Corte
 </p>
 
 <p align="center">
-  <a href="https://youtube.com/shorts/kwljBjWXLu8?feature=share"><b>Watch Full 50s Demonstration Video (YouTube)</b></a> &nbsp;|&nbsp;
+  <a href="https://youtube.com/shorts/Uywyl2mFVd8"><b>Watch Full 50s Demonstration Video (YouTube)</b></a> &nbsp;|&nbsp;
   <a href="https://cad.onshape.com/documents/2ba6d4e9a37a8a971efb751c/w/63f305e31705ebf14d42ed68/e/8a7756ceea2622c2801c4764?renderMode=0&uiState=6acdd42651f57ab03b341d4e"><b>Base Cycloidal CAD (Onshape)</b></a> &nbsp;|&nbsp;
   <a href="https://cad.onshape.com/documents/21856b5a57df7f60c8bb5711/w/d83e96e5db2e67aef034e94f/e/6f31f0688cf59660987a114f?renderMode=0&uiState=6acdd44ba3517403a6dbd75b"><b>Compact Drive CAD (Onshape)</b></a>
 </p>
